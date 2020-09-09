@@ -1,11 +1,15 @@
 <div align="center">
-    <h3 align="center">
-    	Old forest theme for my Linux setup
-    </h3>
+  <h1>Theme for my setup</h1>
 </div>
 
 <div align="center">
-	
-[![maintained](https://img.shields.io/maintenance/yes/2020?label=maintained&style=flat-square)](https://github.com/kelaun/theme/commits/forest) [![contributions](https://img.shields.io/badge/contribution-welcome-brightgreen&?style=flat-square)](https://github.com/kelaun/theme/pulls) [![HitCount](http://hits.dwyl.com/kelaun/theme.svg)](http://hits.dwyl.com/kelaun/theme)
+  <img src="https://img.shields.io/maintenance/yes/2020?label=maintained&style=flat-square"> <img src="https://img.shields.io/badge/contribution-welcome-brightgreen&?style=flat-square">
 
+  <h2>Welcome to the theme repository of Kelaun</h2>
+</div>
+
+<div align="left">
+  <p>
+    This repository contains the themes used for each new Arch Linux installation.<br>
+  </p>
 </div>
