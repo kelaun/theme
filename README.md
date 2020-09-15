@@ -12,4 +12,6 @@
   <p>
     This repository contains the themes used for each new Arch Linux installation.<br>
   </p>
+	<br>
+	<img src="https://raw.githubusercontent.com/kelaun/screenshots/master/black-white.png" align="center">
 </div>
